@@ -1,6 +1,4 @@
-$primary-color : green;
-$text-color1:pink;
-$text-description:lightsalmon;
+@import '../../Styles/Shared/color.scss';
 .first-box{
     border: 1px solid $primary-color;
     margin: 10px;
