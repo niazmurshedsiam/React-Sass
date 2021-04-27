@@ -1,0 +1,27 @@
+$primary-color : green;
+$text-color1:pink;
+$text-description:lightsalmon;
+.first-box{
+    border: 1px solid $primary-color;
+    margin: 10px;
+    padding: 10px;
+    color: $text-color1;
+}
+.second-box{
+    border: 1px solid $primary-color;
+    margin: 10px;
+    padding: 10px;
+    color: $text-description;
+}
+.third-box{
+    border: 1px solid $primary-color;
+    margin: 10px;
+    padding: 10px;
+    color: $text-color1;
+}
+.fourth-box{
+    border: 1px solid $primary-color;
+    margin: 10px;
+    padding: 10px;
+    color: $text-description;
+}
